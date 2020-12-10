@@ -1,2 +1,2 @@
 # templates
-create templates based on loaded themes
+create site templates based on loaded themes
